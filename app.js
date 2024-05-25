@@ -37,7 +37,6 @@ app.use((err, req, res, next) => {
 
 module.exports = app;
 
-// 2) add fullName method
 // 1) write save reservations method
 
 // 14) add search functionality
